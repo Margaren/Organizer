@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Notification>
+    <Name>Онлайн-встреча с трекером</Name>
+    <Data>12.12.2023 12:00:00</Data>
+    <Duration>1</Duration>
+    <Type>Звонок</Type>
+  </Notification>
+  <Notification>
+    <Name>Не подготовка к тесту по математике</Name>
+    <Data>26.12.2023 19:00:00</Data>
+    <Duration>4</Duration>
+    <Type>Задача</Type>
+  </Notification>
+  <Notification>
+    <Name>Защита курсовой</Name>
+    <Data>13.01.2024 8:20</Data>
+    <Duration>3</Duration>
+    <Type>Задача</Type>
+  </Notification>
+  <Notification>
+    <Name>Экзамен по бизнес-процессам</Name>
+    <Data>16.01.2024 10:00:00</Data>
+    <Duration>2</Duration>
+    <Type>4</Type>
+  </Notification>
+</root>

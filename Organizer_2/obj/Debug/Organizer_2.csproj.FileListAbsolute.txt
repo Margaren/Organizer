@@ -1,0 +1,12 @@
+C:\Users\карасик\Desktop\Organizer_2\bin\Debug\Organizer_2.dll
+C:\Users\карасик\Desktop\Organizer_2\bin\Debug\Organizer_2.pdb
+C:\Users\карасик\Desktop\Organizer_2\obj\Debug\Organizer_2.csproj.AssemblyReference.cache
+C:\Users\карасик\Desktop\Organizer_2\obj\Debug\Organizer_2.csproj.CoreCompileInputs.cache
+C:\Users\карасик\Desktop\Organizer_2\obj\Debug\Organizer_2.dll
+C:\Users\карасик\Desktop\Organizer_2\obj\Debug\Organizer_2.pdb
+C:\Users\SystemX\Desktop\Помощь\Organizer_2\bin\Debug\Organizer_2.dll
+C:\Users\SystemX\Desktop\Помощь\Organizer_2\bin\Debug\Organizer_2.pdb
+C:\Users\SystemX\Desktop\Помощь\Organizer_2\obj\Debug\Organizer_2.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\Помощь\Organizer_2\obj\Debug\Organizer_2.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\Помощь\Organizer_2\obj\Debug\Organizer_2.dll
+C:\Users\SystemX\Desktop\Помощь\Organizer_2\obj\Debug\Organizer_2.pdb
